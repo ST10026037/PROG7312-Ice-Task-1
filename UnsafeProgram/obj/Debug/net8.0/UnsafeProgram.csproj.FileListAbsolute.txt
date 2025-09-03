@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\Downloads\UnsafeProgram\bin\Debug\net8.0\UnsafeProgram.exe
+C:\Users\lab_services_student\Downloads\UnsafeProgram\bin\Debug\net8.0\UnsafeProgram.deps.json
+C:\Users\lab_services_student\Downloads\UnsafeProgram\bin\Debug\net8.0\UnsafeProgram.runtimeconfig.json
+C:\Users\lab_services_student\Downloads\UnsafeProgram\bin\Debug\net8.0\UnsafeProgram.dll
+C:\Users\lab_services_student\Downloads\UnsafeProgram\bin\Debug\net8.0\UnsafeProgram.pdb
+C:\Users\lab_services_student\Downloads\UnsafeProgram\obj\Debug\net8.0\UnsafeProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Downloads\UnsafeProgram\obj\Debug\net8.0\UnsafeProgram.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Downloads\UnsafeProgram\obj\Debug\net8.0\UnsafeProgram.AssemblyInfo.cs
+C:\Users\lab_services_student\Downloads\UnsafeProgram\obj\Debug\net8.0\UnsafeProgram.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Downloads\UnsafeProgram\obj\Debug\net8.0\UnsafeProgram.dll
+C:\Users\lab_services_student\Downloads\UnsafeProgram\obj\Debug\net8.0\refint\UnsafeProgram.dll
+C:\Users\lab_services_student\Downloads\UnsafeProgram\obj\Debug\net8.0\UnsafeProgram.pdb
+C:\Users\lab_services_student\Downloads\UnsafeProgram\obj\Debug\net8.0\UnsafeProgram.genruntimeconfig.cache
+C:\Users\lab_services_student\Downloads\UnsafeProgram\obj\Debug\net8.0\ref\UnsafeProgram.dll
