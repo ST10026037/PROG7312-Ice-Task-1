@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\Downloads\GenericPair\bin\Debug\net8.0\GenericPair.exe
+C:\Users\lab_services_student\Downloads\GenericPair\bin\Debug\net8.0\GenericPair.deps.json
+C:\Users\lab_services_student\Downloads\GenericPair\bin\Debug\net8.0\GenericPair.runtimeconfig.json
+C:\Users\lab_services_student\Downloads\GenericPair\bin\Debug\net8.0\GenericPair.dll
+C:\Users\lab_services_student\Downloads\GenericPair\bin\Debug\net8.0\GenericPair.pdb
+C:\Users\lab_services_student\Downloads\GenericPair\obj\Debug\net8.0\GenericPair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Downloads\GenericPair\obj\Debug\net8.0\GenericPair.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Downloads\GenericPair\obj\Debug\net8.0\GenericPair.AssemblyInfo.cs
+C:\Users\lab_services_student\Downloads\GenericPair\obj\Debug\net8.0\GenericPair.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Downloads\GenericPair\obj\Debug\net8.0\GenericPair.dll
+C:\Users\lab_services_student\Downloads\GenericPair\obj\Debug\net8.0\refint\GenericPair.dll
+C:\Users\lab_services_student\Downloads\GenericPair\obj\Debug\net8.0\GenericPair.pdb
+C:\Users\lab_services_student\Downloads\GenericPair\obj\Debug\net8.0\GenericPair.genruntimeconfig.cache
+C:\Users\lab_services_student\Downloads\GenericPair\obj\Debug\net8.0\ref\GenericPair.dll
